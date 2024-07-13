@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>I'm a student aspiring to be a Full-Stack Developer</li>
-    <li>I'm currently working on learning React and Node</li>
+    <li>I'm currently working on learning Spring</li>
     <li>Message me at: <a href="mailto:nilay.sabnis05@gmail.com">nilay.sabnis05@gmail.com</a></li>
   </ul>
 </div>
