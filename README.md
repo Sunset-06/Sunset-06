@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>I'm a student aspiring to be a Full-Stack Developer</li>
-    <li>I'm currently working on learning Spring</li>
+    <li>View my little <a href="https://sunset-06.github.io/">retro-themed Portfolio</a></li>
     <li>Reach me at: <a href="mailto:nilay.sabnis05@gmail.com">nilay.sabnis05@gmail.com</a></li>
     <li>Or, feel free to connect with  me over LinkedIn or Instagram!</li>
   </ul>
