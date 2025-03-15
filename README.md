@@ -3,12 +3,10 @@
   <h1>Hello! I'm Nilay.</h1>
 </div>
 <div>
-  <ul>
-    <li>I'm a student aspiring to be a Full-Stack Developer</li>
-    <li>View my little <a href="https://sunset-06.github.io/">retro-themed Portfolio</a></li>
-    <li>Reach me at: <a href="mailto:nilay.sabnis05@gmail.com">nilay.sabnis05@gmail.com</a></li>
-    <li>Or, feel free to connect with  me over LinkedIn or Instagram!</li>
-  </ul>
+    <p>I'm learning how to build software, on the web or offline. </p>
+    <p>View my <a href="https://sunset-06.github.io/">retro-themed Portfolio</a> for a bit more information!</p>
+    <p>You can reach me at: <a href="mailto:nilay.sabnis05@gmail.com">nilay.sabnis05@gmail.com</a></p>
+    <p>Or, feel free to connect with  me over LinkedIn or Instagram! (It'll be nice to talk to you)</p>
 </div>
 <div align="center">
   <h2>See my Github Stats:</h2>
