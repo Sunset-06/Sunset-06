@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJlZmFmZWQ0bXQxN3VkNWZmcHdveGU2MzhxMm1ldm9odXNzNnh1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif" width="100"/>
-  <h1>Hello! I'm Nilay.</h1>
+  <h1>Hello! I'm Nilay Nigga.</h1>
+  <h2>I am Gay</h2>
 </div>
 <div>
     <p>I'm learning how to build software. </p>
